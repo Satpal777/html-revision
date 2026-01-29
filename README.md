@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 HTML ONLY RESUME
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,8 +31,8 @@ This project focuses on simple structure, fast loading, and easy development.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Satpal777/[repo-name].git
-cd [repo-name]
+git clone https://github.com/Satpal777/html-revision.git
+cd html-revision
 ```
 
 ### 2. Install dependencies
